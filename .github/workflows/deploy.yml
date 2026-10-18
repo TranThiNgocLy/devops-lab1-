@@ -5,7 +5,7 @@
 
 name: Deploy to GitHub Pages
 
-# === Khi nào pipeline chạy? ===
+# === Khi nào pipeline chạy? ==
 on:
   push:
     branches: [main]       # Chạy khi push lên nhánh main
